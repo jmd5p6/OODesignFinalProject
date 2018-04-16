@@ -1,1 +1,7 @@
-* Errors and Exception Handling
+# Errors and Exception Handling
+
+## How are errors handled?
+
+### Objective C 
+
+### Swift
