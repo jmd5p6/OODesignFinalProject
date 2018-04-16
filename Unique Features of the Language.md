@@ -2,6 +2,6 @@
 
 ## Does the language have any particularly unique features?
 
-### _Objective C_
+### Objective C
 
-### _Swift_
+### Swift
