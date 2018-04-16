@@ -1,4 +1,4 @@
-# OODesignFinalProject
+# OO Design Final Project
 ### A comparison of Objective C and Swift
 
 ## Team Members
