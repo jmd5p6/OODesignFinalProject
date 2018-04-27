@@ -7,7 +7,7 @@
 3. Jonah Zukosky
 
 ## Table of Contents
-(Jonah)[Language Purpose and Genesis](Markdown%20Files/Language%20Purpose%20and%20Genesis.md)  
+~~(Jonah)~~[Language Purpose and Genesis](Markdown%20Files/Language%20Purpose%20and%20Genesis.md)  
 (Jon)[Unique Features of the Language](Markdown%20Files/Unique%20Features%20of%20the%20Language.md)  
 (Christian)[Name Spaces](Markdown%20Files/Name%20Spaces.md)  
 (Jonah)[Types](Markdown%20Files/Types.md)  
