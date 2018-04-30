@@ -12,7 +12,7 @@
 ~~(Christian)~~[Name Spaces](Markdown%20Files/Name%20Spaces.md)  
 ~~(Jonah)~~[Types](Markdown%20Files/Types.md)  
 (Jon)[Classes](Markdown%20Files/Classes.md)  
-(Christian)[Instance reference name in data type](Markdown%20Files/Instance%20Reference%20Name%20in%20Data%20Type.md)  
+~~(Christian)~~[Instance reference name in data type](Markdown%20Files/Instance%20Reference%20Name%20in%20Data%20Type.md)  
 ~~(Jonah)~~[Properties](Markdown%20Files/Properties.md)  
 (Jon)[Interfaces / Protocols](Markdown%20Files/Interfaces%20or%20Protocols.md)  
 (Christian)[Reflection](Markdown%20Files/Reflection.md)  
