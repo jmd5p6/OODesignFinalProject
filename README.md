@@ -15,7 +15,7 @@
 ~~(Christian)~~[Instance reference name in data type](Markdown%20Files/Instance%20Reference%20Name%20in%20Data%20Type.md)  
 ~~(Jonah)~~[Properties](Markdown%20Files/Properties.md)  
 (Jon)[Interfaces / Protocols](Markdown%20Files/Interfaces%20or%20Protocols.md)  
-(Christian)[Reflection](Markdown%20Files/Reflection.md)  
+~~(Christian)~~[Reflection](Markdown%20Files/Reflection.md)  
 (Jonah)[Memory management](Markdown%20Files/Memory%20Management.md)  
 (Jon)[Comparisons of references and values](Markdown%20Files/Comparisons%20of%20References%20and%20Values.md)  
 (Christian)[Null/nil references](Markdown%20Files/Null%20or%20nil%20references.md)  
