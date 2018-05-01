@@ -24,6 +24,6 @@
 ~~(Christian)~~[Implementation of listeners and event handlers](Markdown%20Files/Implementation%20of%20listeners%20and%20event%20handlers.md)  
 (Jonah)[Singleton](Markdown%20Files/Singleton.md)  
 (Jon)[Procedural programming](Markdown%20Files/Procedural%20Programming.md)  
-(Christian)[Functional programming](Markdown%20Files/Functional%20Programming.md)   
+~~(Christian)~~[Functional programming](Markdown%20Files/Functional%20Programming.md)   
 (Jonah)[Multithreading](Markdown%20Files/Multithreading.md)  
 
