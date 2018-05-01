@@ -16,5 +16,6 @@ There are standard library functions for getting and modifying properties of an 
 ``` 
 
 ### Swift
-Swift uses the `Mirror` struct for reflection, which contains a number of members such as `DisplayType` and `AncestorRepresentation` to represent all the attributes for an object.
+Swift uses the `Mirror` struct for reflection, which contains a number of members such as `DisplayType` and `AncestorRepresentation` to represent all the attributes for an object.  
+  
 [Back to README.md](/README.md)
