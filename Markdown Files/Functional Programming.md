@@ -19,4 +19,5 @@ func quicksort<T: Comparable>(_ a: [T]) -> [T] {
 }
 ```
 Copyrighted and licensed with [MIT License](https://github.com/raywenderlich/swift-algorithm-club/blob/master/LICENSE.txt)
+
 [Back to README.md](/README.md)
