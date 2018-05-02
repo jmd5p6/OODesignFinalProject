@@ -17,7 +17,7 @@
 (Jon)[Interfaces / Protocols](Markdown%20Files/Interfaces%20or%20Protocols.md)  
 ~~(Christian)~~[Reflection](Markdown%20Files/Reflection.md)  
 (Jonah)[Memory management](Markdown%20Files/Memory%20Management.md)  
-(Jon)[Comparisons of references and values](Markdown%20Files/Comparisons%20of%20References%20and%20Values.md)  
+~~(Jon)~~[Comparisons of references and values](Markdown%20Files/Comparisons%20of%20References%20and%20Values.md)  
 ~~(Christian)~~[Null/nil references](Markdown%20Files/Null%20or%20nil%20references.md)  
 (Jonah)[Errors and exception handling](Markdown%20Files/Errors%20and%20Exception%20Handling.md)  
 (Jon)[Lambda expressions, closures, or functions as types](Markdown%20Files/Lambda%20expressions%20closures%20or%20functions%20as%20types.md)  
