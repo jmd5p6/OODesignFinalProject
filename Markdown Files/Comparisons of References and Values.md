@@ -7,4 +7,5 @@ Compound data types are represented using @class instances, which are handled us
 
 ### Swift
 Objects of the class type are treated as a reference and objects of the struct type are treated by value. Both references and values are used for comparison in Swift depending on if they are structs or classes.
+
 [Back to README.md](/README.md)
