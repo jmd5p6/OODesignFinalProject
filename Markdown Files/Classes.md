@@ -56,4 +56,5 @@ To deallocate the memory occupied by an instance of a class, simply use the deal
 
 ### Swift
 A deinitializer is called immediately before deallocation. Deinitializers are writted with the deinit keyword and are only available in class types. Swift automatically deallocates instances once they are no longer needed.
+
 [Back to README.md](/README.md)
