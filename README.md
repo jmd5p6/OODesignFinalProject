@@ -16,7 +16,7 @@
 [Properties](Markdown%20Files/Properties.md)  
 [Interfaces / Protocols](Markdown%20Files/Interfaces%20or%20Protocols.md)  
 [Reflection](Markdown%20Files/Reflection.md)  
-(Jonah)[Memory management](Markdown%20Files/Memory%20Management.md)  
+[Memory management](Markdown%20Files/Memory%20Management.md)  
 [Comparisons of references and values](Markdown%20Files/Comparisons%20of%20References%20and%20Values.md)  
 [Null/nil references](Markdown%20Files/Null%20or%20nil%20references.md)  
 (Jonah)[Errors and exception handling](Markdown%20Files/Errors%20and%20Exception%20Handling.md)  
