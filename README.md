@@ -25,5 +25,5 @@
 [Singleton](Markdown%20Files/Singleton.md)  
 [Procedural programming](Markdown%20Files/Procedural%20Programming.md)  
 [Functional programming](Markdown%20Files/Functional%20Programming.md)   
-(Jonah)[Multithreading](Markdown%20Files/Multithreading.md)  
+[Multithreading](Markdown%20Files/Multithreading.md)  
 
