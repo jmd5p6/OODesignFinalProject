@@ -19,7 +19,7 @@
 [Memory management](Markdown%20Files/Memory%20Management.md)  
 [Comparisons of references and values](Markdown%20Files/Comparisons%20of%20References%20and%20Values.md)  
 [Null/nil references](Markdown%20Files/Null%20or%20nil%20references.md)  
-(Jonah)[Errors and exception handling](Markdown%20Files/Errors%20and%20Exception%20Handling.md)  
+[Errors and exception handling](Markdown%20Files/Errors%20and%20Exception%20Handling.md)  
 [Lambda expressions, closures, or functions as types](Markdown%20Files/Lambda%20expressions%20closures%20or%20functions%20as%20types.md)  
 [Implementation of listeners and event handlers](Markdown%20Files/Implementation%20of%20listeners%20and%20event%20handlers.md)   
 [Singleton](Markdown%20Files/Singleton.md)  
